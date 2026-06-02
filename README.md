@@ -3,13 +3,6 @@
   <img src="./github-header-banner.png" width="100%" />
 </p>
 
-<p align="center">
-  <!-- Нижние цветные кнопки технологий -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
 <br />
 
 <p align="center">
