@@ -8,7 +8,7 @@
 <p align="center">Welcome to my GitHub profile! Here I share my projects, experiments, and open-source code.</p>
 
 <p align="center">
-  <!-- GitHub Profile Views Counter (Работает без vercel) -->
+  <!-- GitHub Profile Views Counter -->
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
@@ -17,9 +17,23 @@
 ---
 
 ### 🛠 Tech Stack:
-* 🐍 **Programming Language:** Python
+<p align="left">
+  <!-- Иконка Python из репозитория Devicon -->
+  <img src="https://githubusercontent.com" width="35" height="35" align="left" style="margin-right: 10px;" />
+  <b>Programming Language:</b> Python
+</p>
+<br />
+
 * 🐧 **Operating Systems:** Linux
 * 🔧 **Developer Tools:** Git / GitHub
+
+---
+
+### 📊 GitHub Statistics:
+<p align="center">
+  <!-- Твоя картинка статистики, сгенерированная в ChatGPT -->
+  <img src="./my-stats.png" width="60%" />
+</p>
 
 ---
 
