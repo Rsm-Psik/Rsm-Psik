@@ -7,11 +7,6 @@
 <p align="center"><b>Python Developer / Linux Enthusiast</b></p>
 <p align="center">Welcome to my GitHub profile! Here I share my projects, experiments, and open-source code.</p>
 
-<p align="center">
-  <!-- GitHub Profile Views Counter -->
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
 <br />
 
 ---
