@@ -19,7 +19,7 @@
 ### 🛠 Tech Stack:
 <p align="left">
   <!-- Иконка Python из репозитория Devicon -->
-  <img src="https://githubusercontent.com" width="35" height="35" align="left" style="margin-right: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35" height="35" align="left" style="margin-right: 10px;" />
   <b>Programming Language:</b> Python
 </p>
 <br />
